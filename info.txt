@@ -1,6 +1,7 @@
 1 установить hugo (1 раз)
 2 hugo new site название --format yaml (написать в терминале)
 3 перейти в название (cd название)
+Опубликовать репозиторий
 4 git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
   git submodule update --init --recursive
   (зависит от выбранной темы)
