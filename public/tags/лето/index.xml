@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Мой второй сайт</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Мой второй сайт</description>
+    <title>Лето on Мой второй сайт</title>
+    <link>http://localhost:1313/tags/%D0%BB%D0%B5%D1%82%D0%BE/</link>
+    <description>Recent content in Лето on Мой второй сайт</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Thu, 14 Mar 2024 16:23:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%D0%BB%D0%B5%D1%82%D0%BE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ThirdPost</title>
       <link>http://localhost:1313/posts/thirdpost/</link>
